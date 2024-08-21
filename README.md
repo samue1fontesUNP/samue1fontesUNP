@@ -4,6 +4,22 @@
 >#### Tenho interesse em aprender novos conceitos e tecnologias. Meu desejo é de me especializar na área de Egenharia de Software, por tanto, busco constantemente oportunidades para colocar meus conhecimentos em prática e adquirir bastante conhecimento. 😀
 
 ##
+### 🔗 Github Principal:
+<p align="center">
+    <a href="https://github.com/SEUUSERNAME">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="width:150px;height:auto;">
+    </a>
+</p>
+
+<p align="center">
+    <a>
+        <span style="font-size:20px; display:block;">&#9650;</span>
+    </a>
+</p>
+
+
+
+##
 ### 💻 Tech Stack:
 
 | Categoria | Tecnologias |
